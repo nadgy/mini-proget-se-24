@@ -1,5 +1,7 @@
 # Mini-Projet Système d'éxploitation
 
+***Choisissez un thème unique***
+
 **Mini-Projet 1: Gestion de Threads - Producteur/Consommateur**
 
 ### Contexte :
@@ -62,7 +64,7 @@ Le tampon circulaire a une taille fixe. Le système doit garantir :
 
 ---
 
-**Mini-Projet : Gestion de la Mémoire Partagée - Lecteurs/Rédacteurs**
+**Mini-Projet 2: Gestion de la Mémoire Partagée - Lecteurs/Rédacteurs**
 
 ### Contexte :
 La gestion des ressources partagées dans les systèmes d'exploitation est essentielle pour garantir l'accès concurrent à des données communes sans provoquer de conflits ou d'incohérences. Ce projet se concentre sur l'implémentation du problème classique des **Lecteurs/Rédacteurs**, où plusieurs processus doivent accéder à une mémoire partagée tout en respectant des règles de synchronisation précises.
